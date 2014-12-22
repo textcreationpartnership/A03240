@@ -36,11 +36,31 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A pleasant comedy, called A mayden-head well lost As it hath beene publickly acted at the Cocke-pit 
+
+1. To the Reader.
+
+1. Dramatis Personae.
+
+1. The Prologue.
+
 #####Body#####
 
+1. A MAYDEN-HEAD VVELL LOST.
+
+    _ Actus primus, Scena prima.
+
+    _ Actus Secundus, Scena prima.
+
+    _ Explicit Actus Secundus.
+
+    _ Actus Quartus.
+
+    _ Actus Quintus.
+
 #####Back#####
-A pleasant comedy, called A mayden-head well lost As it hath beene publickly acted at the Cocke-pit 
+
+1. The Epilogue.
+
 **Types of content**
 
   * There are 1774 **verse** lines!
